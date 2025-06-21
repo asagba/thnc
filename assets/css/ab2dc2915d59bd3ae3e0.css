@@ -1,0 +1,1 @@
+input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:focus,input:-webkit-autofill:hover{-webkit-text-fill-color:hsla(var(--ds-gray-1000-value),1)}input:-webkit-autofill::selection{-webkit-text-fill-color:hsla(var(--ds-gray-100-value),1)}
